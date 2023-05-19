@@ -1,0 +1,8 @@
+#fun{
+    margin-top: 30%;
+}
+@media all and (max-width: 1024px) {
+    #fun{
+        margin-top: 200%;
+    }
+}

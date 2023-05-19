@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,500&display=swap');
+
+@media all and (max-width: 1024px) {
+  .centerr{
+    display: flex;
+    height: 10%;
+    margin-left: -33%;
+  }
+}
+
+#wep h1{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 14%;
+    font-weight: 700;
+    color: #fff;
+}
+#wep button{
+    justify-content: center;
+}
+.centerr{
+    margin-left: 35%;
+    margin-top: 3%;
+    justify-content: space-between;
+}
+#fst{
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    margin-left: 3%;
+}
+#wep{
+    background-color: #1f4752;
+}
+#wep h3{
+    font-family: 'Rajdhani', sans-serif;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+}
+#wep p{
+text-align: center;
+font-family: 'Ubuntu', sans-serif;
+color: #fff;
+margin-top: 2%;
+}
